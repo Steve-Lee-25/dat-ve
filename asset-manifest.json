@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dat-ve/static/css/main.f94d1be7.chunk.css",
+    "main.js": "/dat-ve/static/js/main.fbe28d28.chunk.js",
+    "main.js.map": "/dat-ve/static/js/main.fbe28d28.chunk.js.map",
+    "runtime-main.js": "/dat-ve/static/js/runtime-main.ef3611fd.js",
+    "runtime-main.js.map": "/dat-ve/static/js/runtime-main.ef3611fd.js.map",
+    "static/css/2.1616a6f7.chunk.css": "/dat-ve/static/css/2.1616a6f7.chunk.css",
+    "static/js/2.376e02b0.chunk.js": "/dat-ve/static/js/2.376e02b0.chunk.js",
+    "static/js/2.376e02b0.chunk.js.map": "/dat-ve/static/js/2.376e02b0.chunk.js.map",
+    "static/js/3.bfd8d8af.chunk.js": "/dat-ve/static/js/3.bfd8d8af.chunk.js",
+    "static/js/3.bfd8d8af.chunk.js.map": "/dat-ve/static/js/3.bfd8d8af.chunk.js.map",
+    "index.html": "/dat-ve/index.html",
+    "static/css/2.1616a6f7.chunk.css.map": "/dat-ve/static/css/2.1616a6f7.chunk.css.map",
+    "static/css/main.f94d1be7.chunk.css.map": "/dat-ve/static/css/main.f94d1be7.chunk.css.map",
+    "static/js/2.376e02b0.chunk.js.LICENSE.txt": "/dat-ve/static/js/2.376e02b0.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/dat-ve/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef3611fd.js",
+    "static/css/2.1616a6f7.chunk.css",
+    "static/js/2.376e02b0.chunk.js",
+    "static/css/main.f94d1be7.chunk.css",
+    "static/js/main.fbe28d28.chunk.js"
+  ]
+}
